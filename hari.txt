@@ -1,0 +1,9 @@
+java-demo/
+├── pom.xml
+└── src/
+    └── main/
+        └── java/
+            └── com/
+                └── example/
+                    └── app/
+                        └── Main.java
